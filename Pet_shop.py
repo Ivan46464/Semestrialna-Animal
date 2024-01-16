@@ -345,3 +345,4 @@ class Zoo:
     def print_available(animals):
         for animal in animals:
             print("Name: " + animal.name + " ,Species: " + animal.species)
+        print("base")
