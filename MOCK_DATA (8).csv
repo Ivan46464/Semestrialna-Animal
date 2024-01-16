@@ -1,0 +1,1001 @@
+age,weight,mane_color,health,alpha
+9,170.965,Dark Brown,Great,0
+2,229.744,Blonde with Dark Tips,Good,0
+1,198.514,Blonde with Dark Tips,Great,0
+1,210.6,Blonde with Dark Tips,Good,0
+13,205.495,Blonde with Dark Tips,Great,0
+24,227.691,Blonde with Dark Tips,Great,0
+5,220.272,Sandy,Great,0
+30,217.111,Black,Great,0
+19,222.944,Blonde,Excelent,0
+8,208.599,Blonde with Dark Tips,Excelent,0
+1,228.395,Blonde with Dark Tips,Great,0
+21,192.765,Sandy,Good,0
+29,214.269,Blonde,Good,0
+13,222.026,Blonde,Great,0
+14,176.96,Sandy,Good,0
+1,216.857,Reddish-Brown,Poor,0
+18,173.701,Black,Great,0
+22,178.48,Blonde with Dark Tips,Excelent,0
+6,182.038,Sandy,Good,0
+15,180.308,Blonde,Excelent,0
+3,204.804,Sandy,Great,0
+5,196.138,Black,Excelent,0
+24,204.972,Sandy,Great,0
+10,207.978,Blonde with Dark Tips,Poor,0
+24,223.484,Blonde,Excelent,0
+7,197.502,Dark Brown,Excelent,0
+27,174.915,Blonde with Dark Tips,Excelent,0
+3,175.649,Reddish-Brown,Great,0
+28,188.679,Blonde,Excelent,0
+21,209.418,Sandy,Great,0
+29,196.5,Blonde,Poor,0
+12,191.178,Blonde,Good,0
+5,187.516,Blonde with Dark Tips,Good,0
+20,187.309,Dark Brown,Excelent,0
+27,199.807,Blonde with Dark Tips,Great,0
+7,187.209,Dark Brown,Great,0
+18,209.125,Reddish-Brown,Great,1
+22,193.216,Reddish-Brown,Poor,0
+24,173.244,Black,Great,0
+30,189.323,Dark Brown,Good,0
+23,171.454,Blonde,Excelent,0
+13,206.667,Dark Brown,Great,1
+7,184.141,Blonde with Dark Tips,Great,0
+8,181.465,Blonde,Great,0
+3,206.858,Dark Brown,Great,0
+2,214.781,Black,Great,0
+9,203.524,Blonde with Dark Tips,Excelent,0
+9,218.618,Blonde,Good,0
+3,170.845,Sandy,Great,0
+9,180.652,Blonde,Great,0
+11,180.271,Black,Good,0
+4,228.1,Blonde with Dark Tips,Excelent,0
+26,170.476,Blonde,Good,0
+28,218.336,Blonde with Dark Tips,Good,0
+21,181.558,Blonde with Dark Tips,Good,0
+26,201.088,Dark Brown,Excelent,0
+16,224.162,Dark Brown,Excelent,0
+12,221.835,Sandy,Great,0
+29,180.415,Blonde,Good,0
+1,182.562,Blonde,Great,0
+26,211.511,Blonde,Good,0
+11,215.817,Blonde,Good,0
+21,229.778,Blonde,Good,0
+4,217.475,Blonde with Dark Tips,Excelent,0
+17,170.755,Blonde,Good,0
+2,214.635,Blonde,Excelent,0
+20,187.154,Blonde,Great,0
+17,191.689,Blonde with Dark Tips,Poor,0
+13,192.935,Blonde,Poor,0
+13,205.672,Dark Brown,Great,0
+23,199.045,Blonde with Dark Tips,Great,0
+28,192.721,Black,Good,0
+3,220.333,Blonde,Excelent,0
+15,215.148,Dark Brown,Excelent,0
+22,221.188,Black,Great,0
+27,186.181,Reddish-Brown,Good,0
+30,178.18,Blonde with Dark Tips,Great,0
+28,198.87,Black,Excelent,0
+2,178.551,Blonde with Dark Tips,Poor,0
+6,222.523,Reddish-Brown,Poor,0
+17,181.308,Black,Great,0
+15,225.391,Dark Brown,Excelent,0
+10,225.106,Blonde with Dark Tips,Good,0
+28,182.592,Dark Brown,Excelent,0
+6,211.406,Blonde with Dark Tips,Excelent,0
+27,171.755,Blonde,Great,0
+6,223.83,Blonde,Excelent,0
+15,224.162,Blonde with Dark Tips,Excelent,0
+12,204.592,Reddish-Brown,Good,0
+26,170.641,Blonde with Dark Tips,Great,0
+1,191.185,Sandy,Poor,0
+24,182.791,Dark Brown,Poor,0
+17,194.214,Blonde,Good,0
+13,220.989,Blonde with Dark Tips,Great,0
+1,217.455,Reddish-Brown,Poor,0
+20,176.599,Blonde with Dark Tips,Great,0
+17,172.004,Blonde,Great,0
+26,208.628,Black,Great,0
+19,171.065,Dark Brown,Good,0
+11,195.09,Black,Good,0
+16,226.767,Blonde,Good,0
+26,222.234,Black,Great,0
+27,195.134,Blonde,Great,0
+27,174.106,Blonde,Excelent,0
+8,228.387,Reddish-Brown,Great,0
+17,185.477,Blonde,Excelent,0
+15,222.715,Black,Good,0
+5,171.921,Sandy,Good,0
+5,207.944,Blonde with Dark Tips,Excelent,0
+7,225.397,Reddish-Brown,Great,0
+13,176.257,Sandy,Excelent,0
+15,204.231,Black,Great,0
+19,196.177,Blonde,Great,0
+26,197.249,Reddish-Brown,Great,0
+30,181.073,Blonde with Dark Tips,Great,0
+10,213.664,Blonde with Dark Tips,Excelent,0
+18,192.445,Blonde,Excelent,0
+3,170.804,Reddish-Brown,Great,0
+3,206.834,Reddish-Brown,Great,0
+25,224.898,Blonde,Excelent,0
+16,182.312,Reddish-Brown,Good,0
+30,211.751,Blonde with Dark Tips,Great,0
+14,175.738,Dark Brown,Great,0
+27,204.895,Blonde,Poor,0
+8,183.902,Sandy,Great,0
+10,185.426,Blonde,Good,0
+19,212.524,Dark Brown,Excelent,0
+26,222.737,Blonde with Dark Tips,Poor,0
+4,220.647,Blonde,Great,0
+15,196.585,Sandy,Excelent,0
+21,205.188,Black,Good,0
+11,216.869,Blonde with Dark Tips,Poor,0
+6,222.456,Sandy,Poor,0
+18,170.802,Reddish-Brown,Poor,0
+10,228.576,Blonde with Dark Tips,Poor,0
+19,208.859,Blonde,Good,0
+10,220.304,Blonde,Good,0
+11,180.83,Blonde,Good,0
+5,221.255,Reddish-Brown,Great,0
+1,202.536,Blonde with Dark Tips,Good,0
+10,188.818,Blonde with Dark Tips,Great,0
+25,227.658,Blonde,Excelent,0
+25,178.87,Reddish-Brown,Poor,0
+23,203.324,Reddish-Brown,Great,0
+17,224.796,Blonde with Dark Tips,Good,0
+1,209.332,Reddish-Brown,Great,0
+16,228.148,Sandy,Excelent,0
+19,191.663,Blonde with Dark Tips,Great,0
+19,229.466,Blonde,Great,0
+7,223.492,Blonde,Great,0
+15,229.487,Sandy,Good,0
+26,186.439,Black,Great,0
+3,222.515,Blonde,Great,0
+18,221.032,Blonde,Excelent,0
+2,225.697,Blonde with Dark Tips,Great,0
+3,228.148,Blonde,Good,0
+28,198.13,Black,Good,0
+26,217.352,Blonde,Good,0
+9,190.809,Black,Great,0
+15,176.596,Blonde with Dark Tips,Great,0
+14,189.522,Sandy,Great,0
+8,184.712,Reddish-Brown,Poor,0
+2,209.842,Blonde,Good,0
+2,225.867,Blonde,Great,0
+28,215.365,Blonde,Excelent,0
+13,173.664,Sandy,Great,0
+4,187.879,Reddish-Brown,Great,0
+8,227.768,Dark Brown,Excelent,0
+20,222.405,Blonde with Dark Tips,Good,0
+10,189.191,Sandy,Good,0
+3,212.214,Blonde,Great,0
+29,206.938,Black,Excelent,0
+17,200.289,Dark Brown,Excelent,0
+11,190.549,Dark Brown,Great,0
+20,213.215,Blonde,Good,0
+29,191.046,Blonde with Dark Tips,Great,0
+25,216.33,Blonde,Great,0
+30,210.039,Blonde,Great,0
+23,216.845,Blonde,Excelent,0
+14,201.027,Blonde,Great,0
+6,209.61,Black,Great,0
+2,219.76,Dark Brown,Great,0
+9,184.097,Black,Good,0
+12,198.034,Dark Brown,Poor,0
+23,213.516,Blonde with Dark Tips,Great,0
+25,199.913,Blonde with Dark Tips,Excelent,0
+23,181.951,Blonde,Great,0
+16,193.009,Blonde with Dark Tips,Excelent,0
+23,176.16,Black,Excelent,0
+23,210.063,Black,Poor,0
+22,217.261,Reddish-Brown,Excelent,0
+16,179.355,Blonde,Great,0
+28,197.346,Reddish-Brown,Excelent,0
+20,177.094,Dark Brown,Poor,0
+17,172.894,Blonde,Excelent,0
+19,172.345,Black,Excelent,0
+21,224.193,Blonde,Great,0
+1,180.426,Blonde with Dark Tips,Good,0
+26,186.598,Sandy,Good,0
+7,208.327,Blonde,Great,0
+9,216.171,Blonde,Great,0
+20,218.797,Blonde with Dark Tips,Excelent,0
+29,192.788,Sandy,Great,0
+19,218.808,Blonde with Dark Tips,Great,0
+6,224.608,Dark Brown,Good,0
+25,223.523,Black,Great,0
+5,196.59,Dark Brown,Great,0
+27,189.791,Blonde,Great,0
+13,226.711,Sandy,Excelent,0
+2,193.506,Blonde with Dark Tips,Great,0
+29,187.07,Black,Good,0
+26,172.271,Blonde,Great,0
+5,229.638,Black,Good,0
+29,188.636,Black,Good,0
+15,214.725,Sandy,Great,0
+8,204.762,Sandy,Poor,0
+27,197.173,Black,Good,0
+26,219.625,Sandy,Poor,0
+17,209.046,Sandy,Good,0
+3,194.42,Blonde with Dark Tips,Excelent,0
+10,210.009,Blonde,Excelent,0
+6,223.65,Sandy,Excelent,0
+16,217.283,Black,Good,0
+25,215.864,Blonde with Dark Tips,Poor,0
+7,197.617,Sandy,Excelent,0
+14,194.424,Black,Good,0
+11,208.765,Sandy,Excelent,0
+28,227.791,Blonde,Good,0
+1,214.895,Reddish-Brown,Great,0
+24,180.132,Blonde,Great,0
+23,218.27,Reddish-Brown,Good,0
+6,205.636,Blonde with Dark Tips,Great,0
+11,202.693,Black,Great,0
+27,188.925,Blonde,Great,0
+20,226.109,Blonde with Dark Tips,Excelent,0
+3,184.424,Black,Great,0
+10,214.884,Blonde,Poor,0
+5,179.306,Reddish-Brown,Great,0
+19,177.95,Blonde with Dark Tips,Poor,0
+15,209.439,Blonde with Dark Tips,Great,0
+29,181.496,Blonde with Dark Tips,Poor,0
+17,183.4,Black,Excelent,0
+25,212.301,Blonde with Dark Tips,Excelent,0
+4,197.364,Blonde,Great,0
+22,199.494,Blonde,Great,0
+16,220.47,Blonde with Dark Tips,Good,0
+14,220.399,Reddish-Brown,Excelent,0
+15,170.186,Blonde,Great,0
+1,198.346,Dark Brown,Great,0
+18,172.296,Dark Brown,Poor,0
+16,212.966,Dark Brown,Good,0
+16,216.932,Blonde with Dark Tips,Great,0
+13,194.626,Sandy,Good,0
+10,200.882,Black,Great,1
+25,213.295,Blonde with Dark Tips,Great,0
+7,183.474,Blonde with Dark Tips,Great,0
+28,183.281,Blonde,Good,0
+14,193.44,Black,Great,0
+22,202.661,Blonde,Excelent,0
+22,173.119,Sandy,Good,0
+18,224.38,Blonde with Dark Tips,Good,0
+28,182.778,Blonde with Dark Tips,Poor,0
+19,200.765,Blonde,Poor,0
+13,183.576,Blonde,Good,0
+23,197.802,Sandy,Great,0
+6,216.005,Black,Poor,0
+7,208.177,Blonde,Good,0
+17,217.267,Black,Great,1
+4,195.493,Blonde with Dark Tips,Good,0
+25,192.979,Reddish-Brown,Good,0
+16,193.447,Blonde,Poor,0
+18,191.243,Reddish-Brown,Good,0
+25,186.007,Blonde,Great,0
+21,219.88,Sandy,Great,0
+23,172.758,Black,Excelent,0
+15,208.742,Sandy,Great,0
+20,207.549,Black,Good,0
+1,187.497,Black,Great,0
+19,186.561,Blonde,Great,0
+23,214.816,Sandy,Great,0
+2,218.578,Blonde with Dark Tips,Good,0
+30,176.231,Sandy,Great,0
+11,218.022,Blonde with Dark Tips,Good,0
+29,208.674,Reddish-Brown,Great,0
+22,172.625,Blonde,Excelent,0
+21,186.576,Black,Excelent,0
+29,180.316,Sandy,Good,0
+29,190.024,Blonde,Great,0
+21,222.607,Sandy,Great,0
+19,204.102,Blonde,Great,0
+16,226.074,Blonde,Great,0
+5,221.363,Black,Excelent,0
+14,225.189,Black,Good,0
+9,193.896,Sandy,Great,0
+5,185.458,Sandy,Excelent,0
+14,221.152,Dark Brown,Poor,0
+2,183.086,Blonde,Good,0
+30,189.123,Reddish-Brown,Excelent,0
+17,176.622,Blonde,Excelent,0
+15,196.12,Reddish-Brown,Excelent,0
+10,176.41,Blonde,Great,0
+16,192.018,Dark Brown,Great,0
+17,174.941,Black,Excelent,0
+4,215.58,Sandy,Great,0
+22,201.864,Blonde,Good,0
+7,186.326,Dark Brown,Poor,0
+10,210.101,Dark Brown,Good,0
+23,207.307,Blonde,Good,0
+15,194.854,Blonde with Dark Tips,Excelent,0
+3,228.631,Blonde with Dark Tips,Good,0
+15,179.455,Reddish-Brown,Excelent,0
+30,217.574,Black,Good,0
+30,204.713,Blonde with Dark Tips,Great,0
+1,172.928,Blonde with Dark Tips,Great,0
+27,195.472,Blonde with Dark Tips,Good,0
+7,189.648,Sandy,Excelent,0
+30,174.367,Reddish-Brown,Poor,0
+18,204.735,Blonde with Dark Tips,Good,0
+16,200.568,Sandy,Great,0
+14,190.164,Black,Excelent,0
+2,180.962,Blonde,Excelent,0
+3,171.269,Sandy,Good,0
+2,175.054,Blonde with Dark Tips,Excelent,0
+15,195.92,Black,Great,0
+12,196.197,Sandy,Great,0
+1,196.959,Dark Brown,Good,0
+26,212.796,Black,Excelent,0
+9,226.251,Blonde,Good,0
+13,200.812,Blonde,Great,0
+12,179.865,Sandy,Great,0
+4,172.99,Sandy,Great,0
+21,174.404,Reddish-Brown,Excelent,0
+22,211.903,Blonde,Great,0
+10,207.971,Blonde with Dark Tips,Great,0
+7,224.077,Blonde,Poor,0
+22,185.167,Blonde,Great,0
+13,196.387,Reddish-Brown,Excelent,0
+22,183.05,Dark Brown,Great,0
+21,178.892,Blonde,Good,0
+23,216.679,Dark Brown,Good,0
+6,185.436,Black,Great,0
+20,198.026,Sandy,Good,0
+23,204.314,Sandy,Poor,0
+13,193.518,Blonde,Poor,0
+30,182.469,Blonde,Great,0
+8,195.251,Sandy,Great,0
+19,210.353,Black,Great,1
+15,218.942,Dark Brown,Good,0
+29,176.843,Black,Great,0
+21,211.856,Sandy,Excelent,0
+28,179.765,Blonde,Poor,0
+2,222.673,Blonde with Dark Tips,Excelent,0
+25,220.903,Blonde,Great,0
+23,224.766,Black,Excelent,0
+7,210.293,Blonde with Dark Tips,Great,0
+24,181.346,Sandy,Good,0
+30,196.472,Blonde,Great,0
+30,187.015,Blonde,Great,0
+14,221.379,Blonde with Dark Tips,Good,0
+21,213.779,Blonde with Dark Tips,Good,0
+23,223.968,Dark Brown,Poor,0
+20,223.653,Blonde,Great,0
+10,182.49,Blonde with Dark Tips,Poor,0
+18,189.317,Sandy,Excelent,0
+16,229.677,Blonde,Great,0
+1,192.348,Sandy,Excelent,0
+3,227.329,Black,Good,0
+23,170.663,Black,Excelent,0
+9,209.14,Blonde,Excelent,0
+10,192.343,Black,Great,0
+27,194.594,Blonde with Dark Tips,Good,0
+20,207.25,Blonde,Good,0
+10,200.882,Sandy,Excelent,0
+19,225.873,Dark Brown,Great,0
+2,172.327,Blonde,Great,0
+12,215.375,Blonde,Great,0
+25,170.269,Blonde with Dark Tips,Great,0
+3,182.755,Black,Great,0
+12,199.367,Blonde,Great,0
+25,182.169,Blonde,Excelent,0
+23,203.255,Blonde with Dark Tips,Poor,0
+14,219.484,Blonde with Dark Tips,Good,0
+1,229.616,Blonde,Great,0
+10,185.547,Blonde,Good,0
+30,194.436,Black,Good,0
+26,189.645,Blonde with Dark Tips,Great,0
+13,193.111,Blonde,Great,0
+22,181.291,Blonde with Dark Tips,Excelent,0
+6,188.146,Blonde,Great,0
+25,198.551,Dark Brown,Good,0
+13,207.552,Blonde with Dark Tips,Good,0
+1,227.275,Reddish-Brown,Good,0
+13,201.458,Blonde,Good,0
+19,206.865,Dark Brown,Excelent,0
+8,183.287,Blonde,Great,0
+5,213.976,Blonde,Good,0
+3,208.445,Blonde,Great,0
+20,177.541,Sandy,Good,0
+25,193.592,Blonde with Dark Tips,Great,0
+6,191.573,Blonde with Dark Tips,Excelent,0
+7,208.327,Dark Brown,Good,0
+28,214.747,Sandy,Good,0
+9,199.069,Sandy,Poor,0
+7,228.294,Black,Great,0
+15,203.345,Sandy,Excelent,0
+20,197.601,Blonde,Great,0
+8,223.252,Blonde,Great,0
+11,216.568,Dark Brown,Excelent,0
+25,219.477,Dark Brown,Great,0
+5,181.663,Sandy,Good,0
+10,212.577,Blonde,Excelent,0
+4,173.736,Reddish-Brown,Great,0
+28,184.876,Blonde,Excelent,0
+27,205.532,Reddish-Brown,Great,0
+26,202.931,Blonde,Good,0
+29,211.62,Dark Brown,Excelent,0
+2,211.731,Black,Great,0
+2,218.415,Dark Brown,Good,0
+15,174.278,Dark Brown,Good,0
+28,181.066,Dark Brown,Great,0
+2,228.0,Blonde with Dark Tips,Good,0
+30,203.675,Sandy,Good,0
+30,183.417,Reddish-Brown,Excelent,0
+1,170.784,Dark Brown,Excelent,0
+7,174.879,Blonde with Dark Tips,Good,0
+10,204.787,Reddish-Brown,Great,1
+21,183.491,Blonde,Excelent,0
+6,172.381,Sandy,Great,0
+7,213.001,Dark Brown,Excelent,0
+5,208.646,Blonde with Dark Tips,Good,0
+29,183.0,Sandy,Great,0
+8,181.354,Reddish-Brown,Excelent,0
+21,202.571,Blonde,Excelent,0
+30,173.425,Dark Brown,Great,0
+11,187.043,Blonde with Dark Tips,Great,0
+20,211.357,Reddish-Brown,Good,0
+4,210.223,Reddish-Brown,Great,0
+15,173.76,Blonde with Dark Tips,Excelent,0
+2,188.883,Blonde,Great,0
+13,228.677,Sandy,Great,0
+14,216.63,Blonde,Excelent,0
+22,209.352,Blonde,Good,0
+5,177.286,Blonde,Great,0
+23,183.212,Dark Brown,Great,0
+15,228.46,Black,Good,0
+5,218.933,Blonde,Good,0
+17,188.472,Black,Great,0
+28,224.831,Blonde,Good,0
+30,213.548,Blonde,Poor,0
+15,226.546,Sandy,Good,0
+20,226.671,Black,Good,0
+5,196.164,Blonde,Excelent,0
+26,202.477,Sandy,Excelent,0
+2,177.306,Black,Great,0
+24,197.807,Blonde,Good,0
+20,176.28,Black,Excelent,0
+30,185.654,Sandy,Good,0
+29,215.973,Reddish-Brown,Good,0
+10,177.311,Reddish-Brown,Good,0
+6,214.326,Blonde with Dark Tips,Good,0
+26,181.905,Black,Good,0
+2,172.605,Blonde,Excelent,0
+21,185.501,Blonde,Great,0
+6,180.905,Reddish-Brown,Great,0
+26,220.508,Blonde with Dark Tips,Great,0
+13,220.173,Blonde,Great,0
+25,201.769,Dark Brown,Poor,0
+1,219.747,Blonde,Good,0
+30,187.207,Blonde,Good,0
+12,195.353,Blonde,Excelent,0
+20,209.796,Black,Excelent,0
+13,226.829,Reddish-Brown,Good,0
+5,229.014,Blonde with Dark Tips,Excelent,0
+4,203.222,Black,Great,0
+28,218.419,Black,Good,0
+7,188.447,Blonde,Good,0
+27,198.636,Blonde,Great,0
+21,181.201,Blonde,Good,0
+26,174.41,Blonde with Dark Tips,Poor,0
+12,223.881,Blonde with Dark Tips,Great,0
+10,196.142,Blonde,Great,0
+29,209.629,Blonde with Dark Tips,Great,0
+7,227.655,Sandy,Great,0
+24,184.642,Black,Excelent,0
+23,186.497,Blonde,Good,0
+30,195.665,Sandy,Excelent,0
+11,211.984,Dark Brown,Great,0
+8,194.268,Reddish-Brown,Great,0
+19,205.477,Black,Good,0
+29,182.058,Dark Brown,Poor,0
+4,188.011,Blonde,Great,0
+13,170.066,Reddish-Brown,Great,0
+21,219.816,Blonde,Excelent,0
+24,216.025,Black,Excelent,0
+16,200.629,Blonde with Dark Tips,Poor,0
+19,203.811,Blonde,Great,0
+11,188.538,Black,Poor,0
+4,227.718,Blonde,Good,0
+12,212.424,Blonde with Dark Tips,Great,0
+11,229.421,Reddish-Brown,Poor,0
+27,221.141,Dark Brown,Excelent,0
+19,174.96,Dark Brown,Excelent,0
+5,226.919,Blonde,Excelent,0
+28,210.359,Dark Brown,Great,0
+1,215.039,Sandy,Excelent,0
+28,223.073,Blonde,Good,0
+25,178.363,Black,Good,0
+22,182.405,Reddish-Brown,Good,0
+12,228.574,Blonde,Great,0
+6,170.758,Blonde,Excelent,0
+25,227.408,Sandy,Poor,0
+11,176.023,Blonde with Dark Tips,Great,0
+3,195.515,Blonde,Poor,0
+5,170.163,Black,Good,0
+4,200.535,Blonde with Dark Tips,Good,0
+15,180.227,Reddish-Brown,Poor,0
+12,208.387,Dark Brown,Good,0
+24,215.681,Blonde,Excelent,0
+7,227.866,Sandy,Great,0
+13,183.278,Blonde,Great,0
+28,177.454,Blonde with Dark Tips,Great,0
+2,179.683,Blonde,Poor,0
+10,171.249,Black,Excelent,0
+28,195.045,Dark Brown,Good,0
+15,177.222,Sandy,Excelent,0
+19,171.897,Dark Brown,Great,0
+7,181.482,Black,Excelent,0
+26,205.933,Black,Excelent,0
+18,187.862,Blonde,Great,0
+17,228.762,Blonde,Good,0
+17,186.029,Black,Great,0
+10,211.693,Sandy,Excelent,0
+13,229.271,Dark Brown,Poor,0
+24,186.393,Blonde,Poor,0
+2,218.724,Blonde,Excelent,0
+7,181.708,Blonde,Good,0
+20,181.182,Blonde,Great,0
+26,184.975,Blonde with Dark Tips,Great,0
+1,217.457,Blonde,Poor,0
+16,195.889,Blonde with Dark Tips,Good,0
+28,183.679,Blonde,Good,0
+27,188.005,Sandy,Poor,0
+20,194.336,Blonde with Dark Tips,Excelent,0
+10,218.766,Blonde,Good,0
+10,195.257,Black,Excelent,0
+2,175.974,Blonde with Dark Tips,Excelent,0
+12,178.102,Blonde with Dark Tips,Great,0
+15,228.124,Blonde,Excelent,0
+24,208.591,Blonde,Poor,0
+7,216.896,Blonde,Excelent,0
+19,213.397,Blonde,Poor,0
+8,208.385,Black,Excelent,0
+9,183.608,Dark Brown,Good,0
+14,193.437,Dark Brown,Great,0
+19,221.3,Sandy,Good,0
+22,189.897,Sandy,Poor,0
+22,214.607,Blonde,Great,0
+25,212.249,Dark Brown,Great,0
+4,171.82,Black,Excelent,0
+14,195.433,Blonde,Excelent,0
+13,226.414,Blonde,Great,0
+29,209.921,Reddish-Brown,Good,0
+8,208.694,Blonde with Dark Tips,Good,0
+5,227.169,Blonde with Dark Tips,Great,0
+4,224.415,Dark Brown,Poor,0
+25,174.303,Black,Excelent,0
+2,214.002,Reddish-Brown,Great,0
+1,227.981,Black,Excelent,0
+26,188.643,Blonde,Poor,0
+2,194.98,Reddish-Brown,Good,0
+19,206.053,Black,Good,0
+5,201.87,Sandy,Excelent,0
+23,200.602,Black,Good,0
+21,175.76,Sandy,Excelent,0
+20,177.329,Blonde,Poor,0
+10,226.086,Blonde with Dark Tips,Great,0
+1,191.977,Sandy,Great,0
+5,204.425,Dark Brown,Poor,0
+21,215.005,Blonde,Good,0
+22,197.903,Sandy,Poor,0
+11,202.201,Sandy,Great,0
+1,216.876,Blonde,Poor,0
+8,208.546,Blonde,Great,0
+9,207.577,Blonde,Great,0
+24,210.338,Dark Brown,Poor,0
+28,177.723,Sandy,Great,0
+6,192.557,Dark Brown,Poor,0
+16,212.439,Sandy,Excelent,0
+23,182.616,Dark Brown,Good,0
+7,176.489,Blonde,Great,0
+4,225.689,Reddish-Brown,Great,0
+27,226.106,Blonde with Dark Tips,Good,0
+29,215.603,Blonde with Dark Tips,Poor,0
+20,204.816,Blonde,Great,0
+16,213.446,Blonde,Good,0
+4,188.332,Sandy,Good,0
+3,227.737,Blonde,Excelent,0
+14,204.075,Blonde with Dark Tips,Great,0
+24,202.439,Blonde,Excelent,0
+28,216.185,Reddish-Brown,Great,0
+17,213.304,Reddish-Brown,Excelent,0
+26,192.764,Black,Great,0
+16,215.87,Sandy,Great,0
+23,172.56,Reddish-Brown,Excelent,0
+29,181.186,Reddish-Brown,Good,0
+7,212.475,Blonde with Dark Tips,Good,0
+5,187.146,Blonde with Dark Tips,Poor,0
+1,192.067,Blonde,Great,0
+18,216.443,Blonde with Dark Tips,Good,0
+17,182.669,Sandy,Poor,0
+18,202.817,Black,Excelent,0
+26,201.231,Blonde with Dark Tips,Poor,0
+26,183.366,Sandy,Poor,0
+6,203.317,Blonde,Poor,0
+27,196.922,Black,Poor,0
+3,224.826,Sandy,Great,0
+14,206.665,Blonde with Dark Tips,Good,0
+1,223.943,Reddish-Brown,Excelent,0
+9,211.98,Dark Brown,Good,0
+9,216.293,Sandy,Excelent,0
+27,218.298,Blonde with Dark Tips,Great,0
+15,218.271,Dark Brown,Great,1
+9,203.572,Blonde with Dark Tips,Good,0
+10,178.853,Blonde,Poor,0
+7,171.966,Sandy,Poor,0
+12,195.379,Blonde with Dark Tips,Poor,0
+25,212.491,Reddish-Brown,Great,0
+22,171.072,Reddish-Brown,Poor,0
+13,215.163,Blonde,Great,0
+15,187.727,Blonde,Good,0
+18,214.827,Blonde,Good,0
+28,189.636,Sandy,Good,0
+27,220.601,Black,Great,0
+10,191.817,Reddish-Brown,Good,0
+10,229.081,Sandy,Great,0
+23,199.99,Blonde,Good,0
+27,195.942,Blonde,Excelent,0
+13,213.721,Reddish-Brown,Good,0
+30,218.362,Blonde with Dark Tips,Poor,0
+18,189.957,Sandy,Good,0
+28,206.558,Blonde with Dark Tips,Excelent,0
+21,203.715,Sandy,Great,0
+16,208.519,Black,Great,1
+25,203.426,Dark Brown,Excelent,0
+16,214.685,Sandy,Good,0
+19,212.138,Blonde,Great,0
+23,199.345,Black,Excelent,0
+23,176.625,Blonde,Excelent,0
+14,172.816,Reddish-Brown,Excelent,0
+6,188.078,Sandy,Great,0
+6,205.707,Dark Brown,Great,0
+11,208.684,Blonde with Dark Tips,Excelent,0
+16,221.812,Blonde with Dark Tips,Great,0
+17,180.055,Sandy,Poor,0
+15,175.183,Blonde with Dark Tips,Excelent,0
+23,213.014,Blonde,Great,0
+15,196.164,Blonde with Dark Tips,Good,0
+13,173.546,Blonde,Good,0
+4,188.451,Blonde with Dark Tips,Great,0
+14,206.523,Reddish-Brown,Great,0
+15,229.991,Dark Brown,Excelent,0
+27,205.039,Dark Brown,Great,0
+19,170.407,Blonde with Dark Tips,Great,0
+8,221.421,Reddish-Brown,Poor,0
+21,216.14,Blonde,Poor,0
+4,204.639,Blonde,Great,0
+27,193.22,Blonde with Dark Tips,Poor,0
+29,190.457,Dark Brown,Excelent,0
+21,182.467,Blonde with Dark Tips,Excelent,0
+5,220.241,Sandy,Excelent,0
+27,186.095,Sandy,Good,0
+23,187.917,Blonde,Great,0
+28,186.946,Blonde with Dark Tips,Good,0
+27,225.977,Reddish-Brown,Poor,0
+29,173.657,Reddish-Brown,Poor,0
+23,174.776,Blonde,Excelent,0
+21,196.206,Blonde,Great,0
+14,175.067,Blonde,Poor,0
+26,211.27,Reddish-Brown,Excelent,0
+14,210.656,Blonde,Great,0
+1,202.204,Blonde,Good,0
+10,199.543,Blonde with Dark Tips,Great,0
+20,174.532,Blonde with Dark Tips,Great,0
+15,188.124,Reddish-Brown,Great,0
+30,190.705,Blonde,Excelent,0
+15,206.963,Blonde with Dark Tips,Poor,0
+22,171.04,Blonde with Dark Tips,Great,0
+22,205.136,Reddish-Brown,Great,0
+21,187.237,Blonde,Good,0
+28,178.886,Blonde,Good,0
+7,178.068,Reddish-Brown,Great,0
+17,179.466,Reddish-Brown,Great,0
+4,185.989,Blonde,Great,0
+20,173.293,Blonde,Great,0
+18,201.297,Reddish-Brown,Great,0
+30,175.02,Blonde with Dark Tips,Poor,0
+25,219.934,Dark Brown,Good,0
+1,216.259,Blonde with Dark Tips,Good,0
+5,189.104,Sandy,Great,0
+1,229.452,Blonde,Great,0
+21,227.146,Blonde with Dark Tips,Great,0
+10,194.522,Blonde,Poor,0
+4,208.381,Blonde with Dark Tips,Good,0
+16,221.534,Blonde with Dark Tips,Excelent,0
+12,213.91,Sandy,Excelent,0
+7,225.507,Reddish-Brown,Poor,0
+2,216.117,Sandy,Excelent,0
+9,229.527,Dark Brown,Poor,0
+19,184.412,Dark Brown,Great,0
+29,173.61,Sandy,Great,0
+10,177.012,Blonde,Good,0
+24,172.313,Blonde,Good,0
+15,209.165,Blonde with Dark Tips,Excelent,0
+11,205.91,Blonde with Dark Tips,Great,0
+15,216.161,Blonde,Excelent,0
+2,221.864,Sandy,Good,0
+18,222.749,Sandy,Good,0
+15,213.162,Blonde,Great,0
+11,199.278,Reddish-Brown,Good,0
+16,210.261,Dark Brown,Good,0
+29,170.944,Blonde,Excelent,0
+16,190.75,Sandy,Great,0
+22,171.921,Sandy,Excelent,0
+4,178.803,Sandy,Great,0
+1,186.438,Dark Brown,Excelent,0
+1,186.11,Blonde with Dark Tips,Great,0
+15,192.162,Blonde,Great,0
+29,183.308,Blonde,Great,0
+23,208.327,Sandy,Excelent,0
+11,227.671,Black,Great,0
+25,207.204,Dark Brown,Excelent,0
+2,216.699,Sandy,Good,0
+5,220.455,Sandy,Good,0
+19,177.209,Dark Brown,Great,0
+23,174.548,Black,Great,0
+21,174.364,Blonde with Dark Tips,Poor,0
+24,228.676,Dark Brown,Great,0
+5,183.76,Blonde with Dark Tips,Great,0
+18,194.221,Sandy,Great,0
+11,216.408,Blonde with Dark Tips,Poor,0
+14,175.015,Black,Great,0
+19,182.666,Sandy,Great,0
+8,220.696,Black,Poor,0
+13,206.532,Blonde,Excelent,0
+9,184.893,Sandy,Great,0
+22,174.437,Blonde with Dark Tips,Great,0
+20,220.281,Blonde,Excelent,0
+9,223.148,Blonde,Excelent,0
+28,185.509,Dark Brown,Poor,0
+18,181.856,Blonde,Good,0
+20,176.969,Black,Good,0
+25,176.955,Blonde,Good,0
+3,170.348,Blonde,Great,0
+15,225.721,Sandy,Poor,0
+23,179.49,Blonde,Poor,0
+21,207.069,Blonde,Good,0
+24,179.662,Dark Brown,Excelent,0
+8,201.076,Blonde,Great,0
+3,197.363,Blonde,Great,0
+5,171.953,Blonde with Dark Tips,Excelent,0
+3,184.994,Black,Great,0
+1,170.017,Dark Brown,Excelent,0
+25,225.844,Black,Excelent,0
+13,184.552,Dark Brown,Poor,0
+1,206.678,Blonde,Great,0
+7,223.614,Blonde with Dark Tips,Great,0
+8,197.88,Blonde with Dark Tips,Good,0
+10,220.914,Blonde,Great,0
+22,229.915,Sandy,Excelent,0
+29,174.828,Blonde with Dark Tips,Good,0
+10,218.116,Blonde,Great,0
+24,226.305,Blonde,Great,0
+11,216.708,Sandy,Poor,0
+4,188.2,Blonde with Dark Tips,Good,0
+8,173.788,Blonde,Great,0
+23,191.973,Blonde,Great,0
+24,211.82,Reddish-Brown,Good,0
+21,226.99,Blonde with Dark Tips,Great,0
+3,195.245,Sandy,Good,0
+30,170.355,Blonde,Poor,0
+23,184.832,Sandy,Good,0
+16,177.962,Sandy,Great,0
+14,200.992,Blonde,Great,0
+23,222.46,Reddish-Brown,Poor,0
+6,201.124,Dark Brown,Great,0
+2,197.557,Sandy,Good,0
+6,213.452,Blonde,Poor,0
+28,218.535,Blonde with Dark Tips,Great,0
+8,218.007,Blonde with Dark Tips,Good,0
+29,204.968,Blonde with Dark Tips,Excelent,0
+24,219.251,Dark Brown,Poor,0
+27,212.256,Dark Brown,Good,0
+26,195.706,Sandy,Good,0
+27,227.995,Sandy,Good,0
+27,228.455,Sandy,Great,0
+13,194.2,Blonde with Dark Tips,Great,0
+22,199.411,Blonde with Dark Tips,Good,0
+12,213.216,Black,Great,0
+24,221.962,Blonde with Dark Tips,Good,0
+5,193.401,Dark Brown,Excelent,0
+26,186.02,Dark Brown,Great,0
+12,176.207,Blonde,Poor,0
+21,214.84,Sandy,Great,0
+18,224.142,Black,Great,0
+15,183.868,Sandy,Good,0
+10,203.266,Sandy,Excelent,0
+26,214.029,Blonde,Great,0
+17,217.479,Black,Poor,0
+20,196.209,Black,Great,0
+20,226.233,Blonde,Good,0
+17,217.276,Blonde,Excelent,0
+20,173.141,Blonde with Dark Tips,Good,0
+20,227.866,Sandy,Good,0
+18,211.787,Blonde,Excelent,0
+28,196.564,Sandy,Great,0
+1,208.847,Reddish-Brown,Great,0
+22,196.988,Black,Poor,0
+12,181.109,Dark Brown,Poor,0
+17,198.081,Blonde,Excelent,0
+18,221.41,Blonde,Great,0
+3,225.01,Reddish-Brown,Excelent,0
+29,187.816,Blonde with Dark Tips,Excelent,0
+4,171.924,Reddish-Brown,Great,0
+1,184.659,Sandy,Poor,0
+28,215.553,Sandy,Excelent,0
+8,177.29,Dark Brown,Good,0
+13,175.204,Sandy,Excelent,0
+5,201.596,Blonde,Excelent,0
+29,171.546,Blonde,Great,0
+12,199.896,Blonde,Excelent,0
+12,209.371,Black,Good,0
+21,220.098,Blonde,Great,0
+16,217.28,Dark Brown,Great,1
+15,180.254,Blonde,Excelent,0
+9,201.453,Blonde with Dark Tips,Excelent,0
+10,175.943,Blonde,Good,0
+22,208.568,Blonde,Great,0
+21,184.721,Black,Excelent,0
+28,192.883,Reddish-Brown,Good,0
+11,178.498,Dark Brown,Great,0
+26,177.967,Blonde with Dark Tips,Excelent,0
+19,203.027,Blonde,Poor,0
+14,196.408,Reddish-Brown,Great,0
+4,217.259,Blonde,Great,0
+5,184.455,Sandy,Good,0
+18,201.225,Dark Brown,Excelent,0
+15,212.65,Black,Good,0
+28,226.645,Blonde with Dark Tips,Great,0
+13,184.728,Blonde,Good,0
+27,181.717,Black,Great,0
+4,200.271,Blonde with Dark Tips,Excelent,0
+15,209.854,Blonde with Dark Tips,Great,0
+23,174.001,Reddish-Brown,Good,0
+11,182.684,Blonde with Dark Tips,Poor,0
+2,224.805,Sandy,Excelent,0
+27,176.526,Blonde,Great,0
+13,186.386,Blonde,Great,0
+6,201.924,Blonde,Great,0
+3,189.872,Dark Brown,Great,0
+10,210.197,Blonde with Dark Tips,Good,0
+5,183.728,Blonde with Dark Tips,Poor,0
+3,210.293,Sandy,Poor,0
+15,206.262,Blonde with Dark Tips,Great,0
+1,219.546,Sandy,Good,0
+9,193.086,Black,Excelent,0
+13,201.782,Sandy,Poor,0
+23,226.785,Sandy,Good,0
+7,223.822,Blonde,Poor,0
+30,190.445,Black,Great,0
+20,211.527,Blonde,Poor,0
+25,173.79,Reddish-Brown,Great,0
+28,229.943,Blonde,Great,0
+18,183.624,Blonde,Excelent,0
+11,173.312,Dark Brown,Great,0
+18,180.361,Blonde with Dark Tips,Good,0
+27,221.774,Blonde with Dark Tips,Excelent,0
+2,192.469,Sandy,Good,0
+19,180.139,Sandy,Good,0
+8,226.892,Blonde with Dark Tips,Poor,0
+5,186.366,Blonde,Good,0
+27,217.686,Blonde,Excelent,0
+14,222.546,Blonde with Dark Tips,Good,0
+9,206.835,Black,Excelent,0
+25,191.883,Blonde with Dark Tips,Good,0
+27,199.185,Blonde,Excelent,0
+21,195.008,Sandy,Great,0
+6,199.872,Blonde,Great,0
+29,224.106,Sandy,Poor,0
+23,224.948,Blonde,Excelent,0
+19,177.392,Black,Excelent,0
+20,171.552,Blonde,Great,0
+7,211.421,Blonde,Good,0
+26,204.973,Sandy,Great,0
+8,194.347,Reddish-Brown,Excelent,0
+27,229.167,Blonde with Dark Tips,Poor,0
+8,225.639,Blonde,Excelent,0
+27,194.325,Reddish-Brown,Poor,0
+15,208.135,Blonde,Great,0
+20,180.556,Dark Brown,Poor,0
+1,194.084,Blonde,Good,0
+28,193.576,Sandy,Good,0
+19,223.703,Blonde,Excelent,0
+3,227.053,Black,Good,0
+9,190.847,Dark Brown,Great,0
+2,195.324,Blonde with Dark Tips,Poor,0
+10,212.891,Sandy,Great,0
+28,219.342,Blonde with Dark Tips,Poor,0
+9,214.259,Blonde,Poor,0
+7,203.599,Black,Excelent,0
+7,181.421,Sandy,Great,0
+14,202.818,Blonde,Good,0
+12,204.646,Blonde with Dark Tips,Great,0
+28,223.027,Black,Great,0
+10,218.674,Blonde,Great,0
+26,226.343,Dark Brown,Great,0
+24,184.529,Blonde with Dark Tips,Excelent,0
+30,194.759,Dark Brown,Excelent,0
+4,186.897,Blonde,Great,0
+17,176.446,Black,Poor,0
+25,211.508,Blonde with Dark Tips,Poor,0
+10,193.558,Reddish-Brown,Great,0
+13,188.04,Blonde,Great,0
+12,222.552,Blonde,Great,0
+28,204.256,Sandy,Great,0
+22,207.756,Sandy,Great,0
+2,208.255,Reddish-Brown,Great,0
+25,205.218,Blonde with Dark Tips,Great,0
+26,221.143,Blonde,Excelent,0
+30,188.704,Sandy,Great,0
+17,206.928,Sandy,Great,0
+18,199.725,Sandy,Good,0
+14,194.503,Blonde,Great,0
+3,218.933,Blonde,Great,0
+19,176.486,Reddish-Brown,Poor,0
+26,225.267,Sandy,Good,0
+1,196.301,Blonde with Dark Tips,Good,0
+28,197.347,Black,Good,0
+7,180.861,Reddish-Brown,Great,0
+15,191.855,Blonde with Dark Tips,Excelent,0
+29,192.317,Dark Brown,Great,0
+15,170.935,Blonde,Great,0
+23,216.598,Blonde,Great,0
+15,211.602,Blonde,Good,0
+25,206.258,Black,Good,0
+10,224.927,Blonde with Dark Tips,Poor,0
+20,218.738,Blonde with Dark Tips,Excelent,0
+5,199.43,Sandy,Great,0
+23,217.95,Blonde with Dark Tips,Excelent,0
+25,208.214,Blonde with Dark Tips,Good,0
+28,226.668,Blonde,Great,0
+15,196.284,Sandy,Good,0
+12,170.4,Sandy,Good,0
+19,222.007,Blonde,Poor,0
+20,193.057,Blonde,Excelent,0
+27,216.484,Reddish-Brown,Poor,0
+21,203.954,Blonde with Dark Tips,Good,0
+4,198.774,Blonde,Good,0
+25,173.847,Blonde,Poor,0
+5,197.422,Sandy,Great,0
+10,217.905,Black,Excelent,0
+26,214.462,Blonde,Excelent,0
+10,223.777,Reddish-Brown,Excelent,0
+14,219.722,Blonde with Dark Tips,Good,0
+9,204.663,Blonde with Dark Tips,Great,0
+13,205.496,Reddish-Brown,Excelent,0
+1,174.023,Blonde,Good,0
+27,196.45,Black,Great,0
+19,179.608,Sandy,Great,0
+8,180.383,Blonde with Dark Tips,Great,0
+22,185.612,Blonde with Dark Tips,Great,0
+15,175.603,Blonde,Great,0
+10,224.209,Blonde,Great,0
+19,186.687,Blonde,Good,0
+30,227.319,Blonde,Poor,0
+9,216.113,Sandy,Good,0
+29,210.005,Blonde with Dark Tips,Great,0
+23,191.294,Sandy,Good,0
+3,179.109,Sandy,Great,0
+10,203.571,Sandy,Poor,0
+24,186.4,Blonde,Great,0
+23,191.853,Black,Good,0
+3,223.937,Blonde,Great,0
+4,178.896,Blonde with Dark Tips,Great,0
+1,192.711,Dark Brown,Excelent,0
+10,179.929,Blonde,Great,0
+17,205.816,Blonde,Great,0
+20,171.37,Black,Good,0
+5,213.201,Black,Good,0
+5,204.917,Dark Brown,Great,0
+14,181.148,Blonde,Good,0
+26,196.717,Blonde with Dark Tips,Good,0
+1,209.397,Reddish-Brown,Poor,0
+22,195.747,Black,Great,0
+14,197.933,Blonde with Dark Tips,Good,0
+23,172.245,Sandy,Excelent,0
+15,193.097,Sandy,Poor,0
+14,199.44,Blonde with Dark Tips,Good,0
+12,201.14,Blonde with Dark Tips,Poor,0
+9,197.46,Blonde with Dark Tips,Excelent,0
+15,194.797,Dark Brown,Great,0
