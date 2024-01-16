@@ -14,8 +14,9 @@ class Parrot(Animal):
     def eat(self, food):
         print("The parrot eat " + food)
 
-    def imitate_human_speech(self):
-        pass
+    @staticmethod
+    def imitate_human_speech():
+        print('Word')
 
     def learn_word(self):
         word = input("What word to learn: ")
