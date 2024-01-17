@@ -90,6 +90,22 @@ class Zoo:
                     raise invalid_name
             except invalid_name:
                 print("Enter a valid name.")
+        types = ["Budgerigar", "Eclectus", "Rose-ringed parakeet"]
+        while True:
+            try:
+                for x in types:
+                    print("Available type: " + x)
+                type_of = input("Input type of the parrot:")
+                typ = False
+                for x in types:
+                    if type_of == x:
+                        typ = True
+                if typ:
+                    break
+                else:
+                    raise invalid_type
+            except invalid_type:
+                print("Input valid type of parrot.")
         colors = [
             "Red", "Green", "Blue", "Yellow", "Purple", "Orange", "Pink", "Brown",
             "Cyan", "Magenta", "Turquoise", "Lime", "Indigo", "Teal", "Maroon",
@@ -107,7 +123,12 @@ class Zoo:
                     raise invalid_mane_color
             except invalid_mane_color:
                 print("Input valid color.")
-        parrot = Parrot.Parrot(name, age, "Parrot", feather_color)
+        counter = 0
+        for x in types:
+            counter = counter + 1
+            if type_of == x:
+                break
+        parrot = Parrot.Parrot(name, age, "Parrot", counter, feather_color)
         animals.append(parrot)
 
     @staticmethod
