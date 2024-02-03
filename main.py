@@ -3,6 +3,10 @@ from Exception import invalid_choice
 from Pet_shop import Zoo
 import logging
 import sys
+import warnings
+
+# Suppress all warnings
+warnings.filterwarnings("ignore")
 petshop = Zoo()
 animals = []
 logger = logging.getLogger(__name__)
