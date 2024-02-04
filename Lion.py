@@ -6,12 +6,13 @@ from Exception import *
 class Lion(Animal):
     pregnant = False
 
-    def __init__(self, name, age, species, mane_color, predatory, male):
+    def __init__(self, name, age, weight, health, species, mane_color, predatory, male):
         super().__init__(name, age, species)
         self.mane_color = mane_color
         self.predatory = predatory
         self.male = male
-
+        self.weight = weight
+        self.health = health
     def eat(self, food):
         print("The lion is eating " + food)
 

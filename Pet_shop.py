@@ -21,6 +21,22 @@ class Zoo:
                     raise invalid_age
             except invalid_age:
                 print("Enter a valid age.")
+        while True:
+            try:
+                weight = input("Input how much does he weights:")
+                if float(weight):
+                    weight = float(weight)
+
+                    if weight < 0:
+                        raise invalid_weight
+                    break
+                else:
+                    raise ValueError
+            except invalid_weight:
+                print("Enter valid weight")
+            except ValueError:
+                print("Enter valid weight")
+
         name_pattern = re.compile("^[A-Z][-a-z]{3,20}")
         while True:
             try:
@@ -31,6 +47,30 @@ class Zoo:
                     raise invalid_name
             except invalid_name:
                 print("Enter a valid name.")
+        healths = ["Poor", "Good", "Great", "Excelent"]
+        while True:
+            try:
+                print("1.Poor")
+                print("2.Good")
+                print("3.Great")
+                print("4.Excelent")
+                choice = input("Choose in what health is the lion:")
+
+                if choice.isdigit():
+                    choice = int(choice)
+                    if choice <= 0 or choice > 8:
+                        print("It has to be between 1-8")
+                        raise invalid_choice
+                    break
+                else:
+                    print("It has to be be a number")
+                    raise invalid_choice
+            except invalid_choice:
+                print("Enter a valid choice.")
+        health = ""
+        for i, x in enumerate(healths):
+            if choice == i+1:
+                health += x
         colors = [
             'Blonde', 'Sandy', 'Dark Brown', 'Black', 'Reddish-Brown', 'Blonde with Dark Tips']
         while True:
@@ -63,7 +103,7 @@ class Zoo:
             except invalid_gender:
                 print("Enter M or F.")
 
-        lion = Lion.Lion(name, age, "Lion", mane_color, True, gender)
+        lion = Lion.Lion(name, age, weight, health, "Lion", mane_color, True, gender)
         animals.append(lion)
 
     @staticmethod
