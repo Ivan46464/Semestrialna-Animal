@@ -10,6 +10,12 @@ class invalid_choice(Exception):
         super().__init__(message)
 
 
+class invalid_weight(Exception):
+    def __init__(self, message=None):
+        self.message = message
+        super().__init__(message)
+
+
 class invalid_name(Exception):
     def __init__(self, message=None):
         self.message = message
