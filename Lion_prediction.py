@@ -3,6 +3,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
+from sklearn.ensemble import RandomForestClassifier
+import numpy as np
+import matplotlib.pyplot as plt
 df = pd.read_csv("Lion_alpha.csv")
 print(df.dtypes)
 print(df["mane_color"].unique())
@@ -13,19 +16,13 @@ df["health"] = df["health"].replace({"Poor" : 1, "Good" : 2, "Great" : 3, "Excel
 X = df[["age", "weight", "mane_color", "health"]]
 y = df["alpha"]
 scaler = StandardScaler()
-X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=6, test_size=0.3)
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=8, test_size=0.3)
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
-model = LogisticRegression(class_weight="balanced")
+model = RandomForestClassifier(max_depth=7, class_weight="balanced")
 model.fit(X_train, y_train)
 print(model.score(X_train, y_train))
 print(model.score(X_test, y_test))
-coefficients = model.coef_
-intercept = model.intercept_
-
-print('coefficeints: ', coefficients)
-print('intercept: ', intercept)
-
 
 y_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
@@ -44,43 +41,27 @@ test_conf_matrix = pd.DataFrame(
     index=['actual no', 'actual yes'],
     columns=['predicted no', 'predicted yes']
 )
-
 print(test_conf_matrix)
-x_train_str, x_test_str, y_train_str, y_test_str = train_test_split(X, y, random_state=6, test_size=0.3, stratify=y)
-print('Stratified train positivity rate: ')
-str_train_positivity_rate = sum(y_train_str)/y_train_str.shape[0]
-print(str_train_positivity_rate)
 
-print('Stratified test positivity rate: ')
-str_test_positivity_rate = sum(y_test_str)/y_test_str.shape[0]
-print(str_test_positivity_rate)
+accuracy_train = []
+accuracy_test = []
+depths = range(1, 26)
+for i in depths:
+    rf = RandomForestClassifier(max_depth=i, class_weight="balanced")
+    rf.fit(X_train, y_train)
+    y_pred = rf.predict(X_test)
+    accuracy_test.append(accuracy_score(y_test, rf.predict(X_test)))
+    accuracy_train.append(accuracy_score(y_train, rf.predict(X_train)))
 
+# Find the best accuracy and at what depth that occurs
+best_acc = np.max(accuracy_test)
+best_depth = depths[np.argmax(accuracy_test)]
+print(f'The highest accuracy on the test is achieved when depth: {best_depth}')
+print(f'The highest accuracy on the test set is: {round(best_acc * 100, 3)}%')
 
-model.fit(x_train_str, y_train_str)
-y_pred_str = model.predict(x_test_str)
-print(model.score(x_train_str, y_train_str))
-print(model.score(x_test_str, y_test_str))
-coefficients = model.coef_
-intercept = model.intercept_
-
-print('coefficeints: ', coefficients)
-print('intercept: ', intercept)
-
-accuracy1 = accuracy_score(y_test_str, y_pred_str)
-precision1 = precision_score(y_test_str, y_pred_str)
-recall1 = recall_score(y_test_str, y_pred_str)
-f11 = f1_score(y_test_str, y_pred_str)
-
-print(f'Test set accuracy:\t{accuracy1}')
-print(f'Test set precision:\t{precision1}')
-print(f'Test set recall:\t{recall1}')
-print(f'Test set f1-score:\t{f11}')
-
-
-test_conf_matrix1 = pd.DataFrame(
-    confusion_matrix(y_test_str, y_pred_str),
-    index=['actual no', 'actual yes'],
-    columns=['predicted no', 'predicted yes']
-)
-
-print(test_conf_matrix1)
+# Plot the accuracy scores for the test and train set over the range of depth values
+plt.plot(depths, accuracy_test, 'bo--', depths, accuracy_train, 'r*:')
+plt.legend(['test accuracy', 'train accuracy'])
+plt.xlabel('max depth')
+plt.ylabel('accuracy')
+plt.show()
