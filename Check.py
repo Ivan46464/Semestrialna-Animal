@@ -65,34 +65,29 @@
 # # Write the merged DataFrame to a new CSV file
 # result.to_csv("Lion_alpha.csv", index=False)
 
-import random
-from nltk.tokenize import word_tokenize
-import nltk
-
-# Download NLTK resources (run once)
-nltk.download('punkt')
-
-net = ["Hello", 'you', 'pretty', 'are', 'white', 'generous', 'cold', 'hot', 'looking', 'watching', 'TV']
-
-def generate_sentence(length=7):
-    # Get a list of words
-    words = net
-
-    # Randomly select a starting word
-    current_word = random.choice(words)
-
-    # Initialize the sentence with the starting word
-    sentence = [current_word]
-
-    # Generate the rest of the sentence
-    while len(sentence) < length:
-        next_word = random.choice(words)
-        sentence.append(next_word)
-
-    return ' '.join(sentence)
-
-# Example usage
-generated_sentence = generate_sentence(length=7)
-print(generated_sentence)
-
+import pandas as pd
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+import numpy as np
+df = pd.read_csv("Lion_alpha.csv")
+np.random.seed(42)
+df["mane_color"] = df["mane_color"].replace({"Blonde": 1, "Dark Brown": 2,
+                                             "Reddish-Brown": 3, "Black": 4, "Blonde with Dark Tips": 5,
+                                             "Sandy": 6})
+df["health"] = df["health"].replace({"Poor": 1, "Good": 2, "Great": 3, "Excelent": 4})
+X = df[["age", "weight", "mane_color", "health"]]
+y = df["alpha"]
+scaler = StandardScaler()
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=8, test_size=0.3)
+X_train = scaler.fit_transform(X_train)
+X_test = scaler.transform(X_test)
+model = RandomForestClassifier(max_depth=7, class_weight="balanced")
+model.fit(X_train, y_train)
+mane_colors = ["Blonde", "Dark Brown", "Reddish-Brown", "Black", "Blonde with Dark Tips", "Sandy"]
+inputs = [[11, 208, 3, 3]]
+inputs_scaled = scaler.transform(inputs)
+is_alpha = model.predict(inputs_scaled)
+nz = model.predict_proba(inputs_scaled)[:, 1]
+print(is_alpha , nz)
 

@@ -28,7 +28,7 @@ while True:
             choice = input("Input what u want: ")
             if choice.isdigit():
                 choice = int(choice)
-                if choice <= 0 or choice > 8:
+                if choice <= 0 or choice > 9:
                     logger.error("It has to be between 1-8")
                     raise invalid_choice
                 break

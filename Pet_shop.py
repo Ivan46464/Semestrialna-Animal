@@ -59,7 +59,7 @@ class Zoo:
                 if choice.isdigit():
                     choice = int(choice)
                     if choice <= 0 or choice > 8:
-                        print("It has to be between 1-8")
+                        print("It has to be between 1-4")
                         raise invalid_choice
                     break
                 else:
@@ -263,7 +263,8 @@ class Zoo:
                 print("2.Eat")
                 print("3.Mate with")
                 print("4.Give birth")
-                print("5.Exit")
+                print("5.Add pack")
+                print("6.Exit")
                 choice = int(input("Input your choice: "))
                 match choice:
                     case 1:
@@ -291,6 +292,8 @@ class Zoo:
                     case 4:
                         lion_instance.give_birth(animals)
                     case 5:
+                        lion_instance.add_pack_if_alpha(animals)
+                    case 6:
                         break
 
     @staticmethod
